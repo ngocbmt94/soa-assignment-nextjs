@@ -172,7 +172,6 @@ export const themeCustom = createTheme(theme, {
             position: "relative",
             transition: "all 0.3s ease-in-out",
             textTransform: "uppercase",
-            position: "relative",
             "& .end-icon": {
               position: "absolute",
               right: 0,
